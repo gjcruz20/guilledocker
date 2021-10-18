@@ -1,3 +1,2 @@
-print ('hola mundo')
-print ('chao pescao')
 
+print ('chao pescao')
